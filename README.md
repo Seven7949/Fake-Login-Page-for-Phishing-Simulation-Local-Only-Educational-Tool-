@@ -35,6 +35,27 @@ This project demonstrates how phishing websites work — built to teach users ab
 └── README.md
 
 
+🚀 How to Run
+
+python server.py
+Then open http://localhost:8080 in your browser.
+
+📁 Logs
+
+All credentials are logged into credentials.txt with timestamps.
+
+💡 Use Cases
+
+Cybersecurity training & demos
+Awareness sessions on phishing attacks
+Red team internal testing (if allowed)
+🔐 Protect Yourself From Real Phishing
+
+Always check URLs.
+Use 2FA.
+Don’t trust shady login screens. (Like this one 😉)
+
+
 
 
 
